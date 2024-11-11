@@ -4,7 +4,6 @@
 		<meta charset="utf-8">
 		<title>Amigo secreto</title>
 		<style>
-			
 			body {
 			background-repeat: no-repeat; 
 			background-position: center;
