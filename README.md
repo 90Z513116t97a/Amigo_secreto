@@ -1,33 +1,74 @@
-
 <html>
-	
-	<head>
-		<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Amigo secreto</title>
-		<style>
-  
-			body {
-			background-repeat: no-repeat; 
-			background-position: center;
-			background-size: cover;
-			background-attachment: fixed;
-			}
-			
-		</style>
-		<link href="CSS/CSS.css" rel="stylesheet" type="text/css">
-	</head>
-	<body marginheight="50" marginwidth="50" background="Imagen/fondo.avif">
-		<div id="content-box">
-			<p>Hola amiga secreta, soy "<strong>54,75,20,61,6d,69,67,6f,20,73,65,63,72,65,74,6f,20,3a,76,2c,20,50,69,73,74,61,3a,20,76,65,20,61,6c,20,75,6c,74,69,6d,6f,20,63,6f,6d,65,6e,74,61,72,69,6f</strong>", ¿Como va todo?, espero que bien, como esta semana es virtual decidi hacer una pagina web, asi como las que hacemos en clase de computación, espero que te llege a gustar la mini pagina que hize y que te valla bien en este poco tiempo que falta para que termine el año, y luego vacaciones!!!, ya falta poco asi que alegrate, y para llenar la pagina decidi poner un video de messi cantando un coro de navidad ya que falta tecnicamente solo 1 MEESS!!! </p>
-		</div>
-		<div id="content-box">
-			<iframe width="400" height="200" src="https://www.youtube.com/embed/3GYu3WbK2m8?si=CinKJcF5nivcRSuG" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-			</iframe>
-		</div>
-		<div id="content-box">
-			<center>
-				<img src="Imagen/gracias.jpg" width="250" height="200" alt=""/>
-			</center>
-		</div>
-	</body>
+<head>
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prueba</title>
+<style type="text/css">
+#capa1 {
+	position: absolute;
+	height: 400px;
+	width: 400px;
+	left: 1163px;
+	top: 84px;
+	text-align: center;
+	background-color: #00CBFF;
+}
+#capa2 {
+	position: absolute;
+	height: 91px;
+	width: 448px;
+	left: 616px;
+	top: 33px;
+	color: #FF0004;
+	font-size: x-large;
+	text-align: center;
+	background-color: #2A00FF;
+}
+#capa3 {
+	position: absolute;
+	height: 251px;
+	width: 400px;
+	left: 637px;
+	top: 187px;
+	color: #2F9AFF;
+	background-color: #FFCE00;
+	font-size: large;
+}
+	#capa4 {
+	position: absolute;
+	height: 400px;
+	width: 400px;
+	left: 46px;
+	top: 79px;
+	text-align: center;
+	background-color: #00CBFF;
+}
+#capa5 {
+	position: absolute;
+	left: 170px;
+	top: 494px;
+	color: #2F9AFF;
+	background-color: #00FF6C
+}
+</style>
+<link href="CSS/css.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body {
+	background-image: url(Fondos/fondo.jpg);
+	background-repeat: no-repeat; 
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	}
+</style>
+</head>
+<body>
+<div class="capa" id="capa1"><img src="Imagenes/gracias.jpg" width="300" height="400" alt=""/></div>
+<div class="capa" id="capa3">
+  <p>&nbsp;</p>
+  <p>Hola amiga secreta, espero que hallas logrado descubrrir el pequeño asertijo que deje la anterior semana, y si no, no importa porque era algo troll, esta vez si va a ser de verdad, pero necesitaras desifrar un pequeño acertijo, si lo logras podras estar 1 paso mas cerca de saber quien soy, o no, ¿quien sabe?, te deseo mucha suerte.</p>
+</div>
+<div class="capa" id="capa2"><strong style="font-size: xx-large">Carta virtual para mi amigo secreto!!!</strong></div>
+	<div class="capa" id="capa4"><img src="Imagenes/meme.jpg" width="400" height="400" alt=""/></div>
+<div class="capa" id="capa5"><strong>427573636120224c6f79204461204b696464202d205475204d6972612066742e20e280aa406261646b7269707079e280ac222c206c7565676f20646573636966726120656c20636f6d656e746172696f</strong></div>
+</body>
 </html>
