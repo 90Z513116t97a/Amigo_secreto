@@ -69,6 +69,6 @@ body {
 </div>
 <div class="capa" id="capa2"><strong style="font-size: xx-large">Carta virtual para mi amigo secreto!!!</strong></div>
 	<div class="capa" id="capa4"><img src="Imagenes/meme.jpg" width="400" height="400" alt=""/></div>
-<div class="capa" id="capa5"><strong>427573636120224c6f79204461204b696464202d205475204d6972612066742e20e280aa406261646b7269707079e280ac222c206c7565676f20646573636966726120656c20636f6d656e746172696f</strong></div>
+<div class="capa" id="capa5"><strong>4c,6f,79,20,44,61,20,4b,69,64,64,20,2d,20,54,75,20,4d,69,72,61,20,66,74,2e,20,40,62,61,64,6b,72,69,70,70,79</strong></div>
 </body>
 </html>
