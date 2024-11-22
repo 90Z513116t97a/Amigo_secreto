@@ -25,7 +25,7 @@
 }
 #capa3 {
 	position: absolute;
-	height: 255px;
+	height: 310px;
 	width: 400px;
 	left: 725px;
 	top: 187px;
