@@ -7,8 +7,8 @@
 	position: absolute;
 	height: 400px;
 	width: 400px;
-	left: 1163px;
-	top: 84px;
+	left: 1400px;
+	top: 80px;
 	text-align: center;
 	background-color: #00CBFF;
 }
@@ -16,7 +16,7 @@
 	position: absolute;
 	height: 91px;
 	width: 448px;
-	left: 616px;
+	left: 700px;
 	top: 33px;
 	color: #FF0004;
 	font-size: x-large;
@@ -27,7 +27,7 @@
 	position: absolute;
 	height: 251px;
 	width: 400px;
-	left: 637px;
+	left: 725px;
 	top: 187px;
 	color: #2F9AFF;
 	background-color: #FFCE00;
@@ -37,8 +37,8 @@
 	position: absolute;
 	height: 400px;
 	width: 400px;
-	left: 46px;
-	top: 79px;
+	left: 100px;
+	top: 80px;
 	text-align: center;
 	background-color: #00CBFF;
 }
@@ -64,8 +64,10 @@ body {
 <body>
 <div class="capa" id="capa1"><img src="Imagenes/gracias.jpg" width="300" height="400" alt=""/></div>
 <div class="capa" id="capa3">
-  <p>&nbsp;</p>
-  <p>Hola amiga secreta, espero que hallas logrado descubrrir el pequeño asertijo que deje la anterior semana, y si no, no importa porque era algo troll, esta vez si va a ser de verdad, pero necesitaras desifrar un pequeño acertijo, si lo logras podras estar 1 paso mas cerca de saber quien soy, o no, ¿quien sabe?, te deseo mucha suerte.</p>
+  <p>Hola amiga secreta, ¿Como andas el día de hoy?, parece que no lograste descubrir los codigos, asi que esta vez te dare una pequeña ayuda.</p>
+  <p>El primer codigo lleba el nombre de la figura gemetrica de 6 lados.</p>
+  <p>El segundo codigo tiene que ver con el espacio, DOOM y minecraft(es el basico).</p>
+  <p>¡¡Suerte con tu busqueda!!!</p>
 </div>
 <div class="capa" id="capa2"><strong style="font-size: xx-large">Carta virtual para mi amigo secreto!!!</strong></div>
 	<div class="capa" id="capa4"><img src="Imagenes/meme.jpg" width="400" height="400" alt=""/></div>
