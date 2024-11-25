@@ -64,10 +64,10 @@ body {
 <body>
 <div class="capa" id="capa1"><img src="Imagenes/gracias.jpg" width="300" height="400" alt=""/></div>
 <div class="capa" id="capa3">
-  <p>Hola amiga secreta, ¿Como andas el día de hoy?, parece que no lograste descubrir los codigos, asi que esta vez te dare una pequeña ayuda.</p>
-  <p>El primer codigo lleba el nombre de la figura gemetrica de 6 lados.</p>
-  <p>El segundo codigo tiene que ver con el espacio, DOOM y minecraft(es el basico).</p>
-  <p>¡¡Suerte con tu busqueda!!!</p>
+  <p>Hola amiga secreta, ¿Como andas el día de hoy?, parece que no lograste descubrir los codigos (otra vez), asi que esta vez te dare las respuestas, solo utiliza un traductor de codigos.</p>
+  <p>El primer codigo es hexadecimal.</p>
+  <p>El segundo codigo es Alfabeto galáctico estándar.</p>
+  <p>¡¡Suerte descubriendo quien soy!!!</p>
 </div>
 <div class="capa" id="capa2"><strong style="font-size: xx-large">Carta virtual para mi amigo secreto!!!</strong></div>
 	<div class="capa" id="capa4"><img src="Imagenes/meme.jpg" width="400" height="400" alt=""/></div>
